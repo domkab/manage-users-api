@@ -161,7 +161,7 @@
         "catchPhrase": "Configurable multimedia task-force",
         "bs": "generate enterprise e-tailers"
       }
-    },
+    }
   ],
   "todos": [
     {
@@ -307,6 +307,6 @@
       "id": 27,
       "title": "veritatis pariatur delectus",
       "completed": true
-    },
+    }
   ]
 }
